@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@copilotkit/react-core": "^1.5.20",
+    "@copilotkit/react-core": "^1.50.1",
     "@copilotkit/react-ui": "^1.5.20",
     "@copilotkit/runtime": "^1.5.20",
     "@leafygreen-ui/avatar": "^2.0.2",
