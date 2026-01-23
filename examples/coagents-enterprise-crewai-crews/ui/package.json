@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@copilotkit/react-core": "1.8.3",
-    "@copilotkit/react-ui": "1.8.3",
+    "@copilotkit/react-ui": "1.51.0",
     "@copilotkit/runtime-client-gql": "1.8.3",
     "@copilotkit/runtime": "1.8.3",
     "class-variance-authority": "^0.7.1",
